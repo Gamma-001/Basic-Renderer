@@ -6,7 +6,7 @@
 * shading method  : phong shading
 * implements a basic viewport camera that uses WASD and mouse for navigation
 
-## How to run
+## Build it yourself
 
 ##### Change your include and library path to the directories that contain glfw, glew and glm
 
