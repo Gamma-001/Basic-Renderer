@@ -13,3 +13,6 @@
 ## [GLFW](https://www.glfw.org/)
 ## [GLEW](http://glew.sourceforge.net/)
 ## [GLM](https://github.com/g-truc/glm)
+
+## Screenshots
+![](./3D_shapes/screenshots/SS_1.png)
